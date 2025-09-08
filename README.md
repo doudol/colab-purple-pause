@@ -4,7 +4,7 @@ Browser userscript that turns the Google Colab favicon purple whenever a cell is
 
 > A simple but essential Chrome extension that changes the Google Colab tab icon to a custom "input required" state, so you never miss a prompt again!
 
-![video](video.mp4) 
+![video](gif.gif) 
 
 ## The Problem
 
@@ -19,7 +19,7 @@ This extension constantly monitors your Colab page. When it detects an `input()`
 Since this is not on the Chrome Web Store, you can load it manually in 2 minutes:
 
 1.  **Download:** Click the green `<> Code` button on this page, then choose **Download ZIP**.
-2.  **Unzip:** Unzip the downloaded file. You will have a folder named `colab-input-notifier-extension-main` (or similar).
+2.  **Unzip:** Unzip the downloaded file. You will have a folder named `colab-input-notifier-extension-main` (or similar depending on what you named it).
 3.  **Open Chrome Extensions:** In Chrome, navigate to `chrome://extensions`.
 4.  **Enable Developer Mode:** In the top-right corner, turn on the **"Developer mode"** switch.
 5.  **Load the Extension:** Click the **"Load unpacked"** button that appeared.
