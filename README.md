@@ -25,6 +25,7 @@ Since this is not on the Chrome Web Store, you can load it manually in 2 minutes
 5.  **Load the Extension:** Click the **"Load unpacked"** button that appeared.
 6.  **Select the Folder:** In the file browser, select the unzipped folder (the one containing `manifest.json`).
 7.  **Done!** The extension is now installed and active. It will automatically work whenever you are on a Google Colab page.
+8.  Still confused? check this quick and simple youtube video https://www.youtube.com/watch?v=oswjtLwCUqg
 
 ---
 ## Are you suspicous?
