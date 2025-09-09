@@ -31,5 +31,6 @@ Since this is not on the Chrome Web Store, you can load it manually in 2 minutes
 ## Are you suspicous?
 Feel free to scan at https://virustotal.com/ or even check the codes contents!
 
-## Potential To-Dos
+## To-Dos
 Might add a simple sound effect rather than just a simple favicon change!
+Adding WandB Support
